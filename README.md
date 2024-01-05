@@ -12,7 +12,8 @@ IN PROGRESS
 
 This project aims to create an interactive world map constructed from touch-sensitive wooden pieces. Each piece represents a different country or U.S. state and is equipped with a capacitive touch sensor. When a country or state is touched, the system detects the input and displays a corresponding photo album on a nearby digital display. This integration of traditional woodworking with modern touch-sensitive technology and digital displays creates an educational and engaging experience.
 
-![81b3pTXAgmL](https://github.com/buraktopo/TouchSensitiveWorldMap/assets/25137126/6b48d1fd-2bfd-4272-a8b3-ebd38eff66a9)
+![816zHJydmEL](https://github.com/buraktopo/TouchSensitiveWorldMap/assets/25137126/cd65ca74-73cb-4639-b89b-bfbbfdf927fa)
+
 
 ## Educational Value Added
 
@@ -46,9 +47,9 @@ The project offers a multifaceted educational experience, combining elements of 
 
 ## BOM + Component Cost
 
-* List of all components (sensors, microcontroller, display, wires, etc.)
-* Estimated cost for each component.
-* Total projected budget.
+* List of all components (sensors, microcontroller, display, wires, etc.) = ~$250
+* Other pieces = ~$200
+* Total projected budget = ~$450
 
 ## Timeline
 
