@@ -20,12 +20,12 @@ The project offers a multifaceted educational experience, combining elements of 
 
 ## Tasks
 
-*Research and selection of appropriate capacitive touch sensors.
-*Development of a microcontroller-based system for sensor input processing.
-*Design and programming of the user interface for the display.
-*Integration of hardware and software components.
-*Testing and troubleshooting the complete system.
-*Documentation and presentation of the project.
+* Research and selection of appropriate capacitive touch sensors.
+* Development of a microcontroller-based system for sensor input processing.
+* Design and programming of the user interface for the display.
+* Integration of hardware and software components.
+* Testing and troubleshooting the complete system.
+* Documentation and presentation of the project.
 
 ## Design Decisions
 
