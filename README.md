@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Burak Topo, Computer Engineering Student (2024)
+Email: buraktopo@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
@@ -10,40 +10,63 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project aims to create an interactive world map constructed from touch-sensitive wooden pieces. Each piece represents a different country or U.S. state and is equipped with a capacitive touch sensor. When a country or state is touched, the system detects the input and displays a corresponding photo album on a nearby digital display. This integration of traditional woodworking with modern touch-sensitive technology and digital displays creates an educational and engaging experience.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The project offers a multifaceted educational experience, combining elements of computer engineering, digital electronics, and interactive design. It provides hands-on experience with capacitive touch sensors, microcontroller programming, system integration, and user interface design. The project also encourages learning about different countries and cultures through the displayed photo albums, making it a valuable educational tool in a classroom or museum setting.
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Research and selection of appropriate capacitive touch sensors.
+Development of a microcontroller-based system for sensor input processing.
+Design and programming of the user interface for the display.
+Integration of hardware and software components.
+Testing and troubleshooting the complete system.
+Documentation and presentation of the project.
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Selection of a microcontroller (Arduino/Raspberry Pi) based on I/O capability and ease of programming.
+Determination of sensor placement and sensitivity adjustment to ensure accurate touch detection through wood.
+Choice of display technology (LCD/LED) for photo album presentation.
+[Additional Design Decisions Here]
 
 ## Design Misc
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Consideration of aesthetic aspects, ensuring that the technology integrates seamlessly with the wooden map.
+[Additional Miscellaneous Design Elements Here]
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Maintain a logbook of daily activities, challenges, and achievements.
+Photograph each stage of the project for visual documentation.
+Keep a version history of software code and design schematics.
+Prepare periodic progress reports for review with the mentor.
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+List of all components (sensors, microcontroller, display, wires, etc.)
+Estimated cost for each component.
+Total projected budget.
+[Detailed Bill of Materials Here]
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Initial research and planning: [Date Range]
+Acquisition of components: [Date Range]
+Prototype development: [Date Range]
+System integration and testing: [Date Range]
+Final assembly and presentation: [Date Range]
+[Additional Timeline Entries Here]
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Tutorials on capacitive touch sensor integration.
+Microcontroller programming guides.
+Forums for troubleshooting electronics projects.
+[Additional Relevant Links Here]
 
 ## Log
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Ongoing log entries of project progress]
